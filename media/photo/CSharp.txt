@@ -1,0 +1,19 @@
+
+C# Tutorial
+LINQ Tutorial
+Entity Framework
+
+
+sumaiyachdy1996@gmail.com
+
+
+UnidentifiedImageError: cannot identify image file 'BasicFinalDatabase/Test\\172\\bcc000060.db'
+
+
+
+http://localhost/phpmyadmin/
+
+
+pip install virtualenv
+virtualenv venv
+
